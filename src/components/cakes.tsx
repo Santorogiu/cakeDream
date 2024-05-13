@@ -6,82 +6,82 @@ export default function Cakes() {
     {
       name: "Brigadeiro Tradicional",
       price: "170",
-      imageUrl: "http://localhost:3000/cakes/brigadeiro-tradicional.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/brigadeiro-tradicional.png",
     },
     {
       name: "Limão Siciliano",
       price: "150",
-      imageUrl: "http://localhost:3000/cakes/limao.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/limao.png",
     },
     {
       name: "Morango com NUTELLA®",
       price: "199",
-      imageUrl: "http://localhost:3000/cakes/morango-nutella.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/morango-nutella.png",
     },
     {
       name: "Trufado de Chocolate",
       price: "110",
-      imageUrl: "http://localhost:3000/cakes/trufado.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/trufado.png",
     },
     {
       name: "Red Velvet",
       price: "135",
-      imageUrl: "http://localhost:3000/cakes/red-velvet.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/red-velvet.png",
     },
     {
       name: "Cheifon",
       price: "190",
-      imageUrl: "http://localhost:3000/cakes/cheifon.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/cheifon.png",
     },
     {
       name: "Banoffe",
       price: "120",
-      imageUrl: "http://localhost:3000/cakes/banoffe.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/banoffe.png",
     },
     {
       name: "Frutas vermelhas",
       price: "205",
-      imageUrl: "http://localhost:3000/cakes/frutas-vermelhas.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/frutas-vermelhas.png",
     },
     {
       name: "Alaska",
       price: "154",
-      imageUrl: "http://localhost:3000/cakes/alaska.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/alaska.png",
     },
     {
       name: "Leite Ninho",
       price: "179",
-      imageUrl: "http://localhost:3000/cakes/leite-ninho.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/leite-ninho.png",
     },
     {
       name: "Nozes",
       price: "140",
-      imageUrl: "http://localhost:3000/cakes/nozes.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/nozes.png",
     },
     {
       name: "Iorgute",
       price: "158",
-      imageUrl: "http://localhost:3000/cakes/iorgute.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/iorgute.png",
     },
     {
       name: "Coco",
       price: "99",
-      imageUrl: "http://localhost:3000/cakes/coco.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/coco.png",
     },
     {
       name: "Baba de moça",
       price: "160",
-      imageUrl: "http://localhost:3000/cakes/Baba-de-moca.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/Baba-de-moca.png",
     },
     {
       name: "Alpes Suiço",
       price: "240",
-      imageUrl: "http://localhost:3000/cakes/alpes-suico.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/alpes-suico.png",
     },
     {
       name: "Tufrado de cereja",
       price: "240",
-      imageUrl: "http://localhost:3000/cakes/trufado-de-cereja.png",
+      imageUrl: "https://cake-dream.vercel.app/cakes/trufado-de-cereja.png",
     },
   ];
 
